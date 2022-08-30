@@ -1,0 +1,4 @@
+#tesserocr 安装时的问题
+#使用 pip install tesseroxr pillow 时失败
+#可以使用whl安装
+#https://github.com/simonflueckiger/tesserocr-windows_build/releases
